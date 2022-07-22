@@ -1,4 +1,4 @@
-# XSS-Payloads
+# XSS-Payloads (By Trhacknon) 
 XSS Payloads collection for testing web application during an engagement 
 
 ## Payloads for 2020 - Some updates
